@@ -1,16 +1,16 @@
 ## 基础常识题： ##
 
-- <a href="https://mp.weixin.qq.com/s/E0dG6p2abDAETKbN8uFFtg">2019最新JAVA200道面试题</a>
-- <a href="https://github.com/CyC2018/CS-Notes">CS-Notes</a>
+- [2019最新JAVA200道面试题](https://mp.weixin.qq.com/s/E0dG6p2abDAETKbN8uFFtg)
+- [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
 ## 序列化部分： ##
 
-- hessian
+- [Hessian](https://github.com/SantaOracle/Knowledge_List/blob/master/serialize/Hessian.md)
 - java
 
 ## 并发部分： ##
 
-- <a href="https://github.com/SantaOracle/Knowledge_List/blob/master/concurrent/%E5%92%8Cvolatile%E7%9B%B8%E5%85%B3%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B.md">和volatile相关的那些事</a>
+- [和volatile相关的那些事](https://github.com/SantaOracle/Knowledge_List/blob/master/concurrent/%E5%92%8Cvolatile%E7%9B%B8%E5%85%B3%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B.md)
 - synchronized
 - Thread
 - 线程池
