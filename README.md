@@ -1,12 +1,11 @@
-# 知识清单
-
 ## 基础常识题： ##
 
-- [2019最新JAVA200道面试题](https://mp.weixin.qq.com/s/E0dG6p2abDAETKbN8uFFtg)
+- <a href="https://mp.weixin.qq.com/s/E0dG6p2abDAETKbN8uFFtg">2019最新JAVA200道面试题</a>
+- <a href="https://github.com/CyC2018/CS-Notes">CS-Notes</a>
 
 ## 序列化部分： ##
 
-- [Hessian](https://github.com/SantaOracle/Knowledge_List/blob/master/serialize/Hessian.md)
+- hessian
 - java
 
 ## 并发部分： ##
@@ -15,6 +14,7 @@
 - synchronized
 - Thread
 - 线程池
+- 模拟百万级别的并发方案
 
 ## 算法： ##
 
@@ -51,4 +51,3 @@
 ## 设计模式： ##
 
 ## 分布式系统： ##
-
