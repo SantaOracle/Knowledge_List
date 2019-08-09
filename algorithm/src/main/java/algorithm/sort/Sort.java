@@ -7,4 +7,11 @@ package algorithm.sort;
 public interface Sort {
 
     int[] sort(int[] array);
+
+    default void print(int[] array) {
+        for (int i : array) {
+            System.out.print(i + " ");
+        }
+        System.out.println();
+    }
 }
