@@ -36,7 +36,7 @@
             - 字典树
             - 后缀树
     - 排序：
-        - 快排
+        - [快排](https://github.com/SantaOracle/Knowledge_List/blob/master/algorithm/src/main/java/algorithm/sort/QuickSort.java)
         - 选择
         - 冒泡
         - 归并
