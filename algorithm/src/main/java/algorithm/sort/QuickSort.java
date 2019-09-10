@@ -46,13 +46,6 @@ public class QuickSort implements Sort{
         return smallEdge + 1;
     }
 
-    private int[] swap(int[] array, int i, int j) {
-        int tmp = array[i];
-        array[i] = array[j];
-        array[j] = tmp;
-        return array;
-    }
-
     public static void main(String[] args) {
         int[] array = new int[]{4, 1, 7, 11, 9, 2, 5};
         Sort sort = new QuickSort();
