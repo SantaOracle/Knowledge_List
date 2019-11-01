@@ -40,6 +40,7 @@
         - 选择
         - 冒泡
         - 归并
+        - 堆排序
     - 搜索：
         - 回溯
         - 递归
@@ -58,10 +59,10 @@
 
 ## MySql： ##
 
-- 索引相关
-- 锁相关
-- 隔离机制
-- 事务
+- [索引相关](https://github.com/SantaOracle/Knowledge_List/blob/master/mysql/Mysql%E6%9D%82%E8%B0%88%E2%80%94%E2%80%94%E7%B4%A2%E5%BC%95%E7%9B%B8%E5%85%B3.md)
+- [事务相关](https://github.com/SantaOracle/Knowledge_List/blob/master/mysql/Mysql%E6%9D%82%E8%B0%88%E2%80%94%E2%80%94%E4%BA%8B%E5%8A%A1%E7%9B%B8%E5%85%B3.md)
+- mysql读写优化
+- 分库分表设计
 
 ## JVM： ##
 
