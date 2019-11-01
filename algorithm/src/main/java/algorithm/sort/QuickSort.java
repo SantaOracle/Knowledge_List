@@ -2,7 +2,6 @@ package algorithm.sort;
 
 /**
  * 快排
- * 暂不支持重复元素排序
  * 哨兵位选择待优化，目前是随机哨兵位
  * Create by peiheng.jiang on 2019/8/9
  */
@@ -54,7 +53,7 @@ public class QuickSort implements Sort{
     }
 
     public static void main(String[] args) {
-        int[] array = new int[]{4, 1, 7, 11, 9, 2, 5};
+        int[] array = new int[]{4, 1, 7, 11, 9, 1, 2, 5, 2};
         Sort sort = new QuickSort();
         array = sort.sort(array);
         sort.print(array);
